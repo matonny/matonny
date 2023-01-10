@@ -1,6 +1,6 @@
 # Hello, cześć! 👋
 
-My name is Mateusz and I'm a 3rd year computer science student and aspiring Front-End developer.
+My name is Mateusz and I'm a 4th year computer science student and aspiring Front-End developer.
 
 
 ### About me 
