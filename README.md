@@ -14,6 +14,6 @@ My name is Mateusz and I'm a 4th year computer science student and aspiring Fron
 
 
 ### Programming
-- I have experience with HTML, CSS and JS
-- Currently I'm learning React and TypeScript
+- I have experience with HTML, CSS, JS, TS, React, Tailwind
+- Currently I'm learning Next.js
 - I dabbled in multiple languages throughout my degree - I did some Java, Haskell, C and Python. I also have experience with data science and machine learning in python. 
